@@ -5,7 +5,7 @@ I made this project for practicing the CSS Grid and getting used to some CSS eff
 
 ## Using the Repository
 
-Git clone the repository and then in the project directory, you can run:
+Git clone the repository and then `cd pt-app` into project directory; then you can run:
 
 ### `npm start`
 
