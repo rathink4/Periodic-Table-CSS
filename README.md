@@ -16,4 +16,3 @@ You will also see any lint errors in the console.
 
 ## Output
 
-![github](https://user-images.githubusercontent.com/7591614/203694072-01250cf1-4051-489e-acf5-b055830c7ca6.gif)
