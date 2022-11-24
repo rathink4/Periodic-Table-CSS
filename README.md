@@ -1,6 +1,6 @@
 # Periodic-Table-CSS
 
-A simple project which was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). and CSS Grid.
+A simple project which was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and CSS Grid.
 I made this project for practicing the CSS Grid and getting used to some CSS effects as well.
 
 ## Using the Repository
